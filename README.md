@@ -39,4 +39,6 @@ Bot: Hello! I'm Ade, your 50+ year financial analyst. Let me analyze AAPL for yo
 📈 Verdict: BUY — Target $185 in 30-45 days
 ⚠️ Disclaimer
 This assistant provides educational and analytical insights only. It is not financial advice.
+# workflow link 
+https://aaassgfdhfi79.app.n8n.cloud/workflow/3sp7s3FeIb97gE7j
 
